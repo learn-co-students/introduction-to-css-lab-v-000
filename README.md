@@ -1,6 +1,6 @@
 # Introduction to CSS Lab
 
-
+<!-- Type in your terminal httpserver to start the browser -->
 ## Problem Statement
 
 HTML's role in our websites is to provide structure, content, and link
